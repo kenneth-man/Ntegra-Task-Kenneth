@@ -25,6 +25,10 @@ __Things to think about:__
 - How might we display dates so that they are more readable?<br>
 - Can we make the table and summary more visually appealing?<br><br>
 
+![Alt text](./src/res/images/sampleScreenshot1.png?raw=true "Sample1")
+![Alt text](./src/res/images/sampleScreenshot2.png?raw=true "Sample2")
+![Alt text](./src/res/images/sampleScreenshot3.png?raw=true "Sample3")
+
 __API__: https://github.com/r-spacex/SpaceX-API/blob/master/docs/README.md<br><br>
 
 React, Javascript, Tailwind
